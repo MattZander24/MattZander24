@@ -26,8 +26,6 @@
 </div>
 </details>
 
------
-
 <details>
   <summary>💻 Sobre mí</summary>
 <div>
