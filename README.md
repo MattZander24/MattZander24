@@ -30,7 +30,15 @@
   <summary>💻 Sobre mí</summary>
 <div>
 <samp>
-<h2 align="center">Nada por ahora</h2>
- </samp>
+
+* 🎓 **Formación:** Analista Programador Universitario y estudiante avanzado de la Lic. en Sistemas (UNLu).
+* 🔭 **Orientación:** Enfocado en Game Dev, Game Design, Desarrollo Frontend y UX/UI.
+* 🛠️ **Stack principal:** TypeScript, Angular, Astro y Java (Spring Boot).
+* ⚙️ **Herramientas:** Git, Docker, K8S, CI/CD (GitHub Actions + Argo), GCP, Terraform.
+* 🗄️ **Bases de datos:** MySQL, PostgreSQL, Firebird, Redis, MongoDB.
+* 🎟️ Product Owner (LeSS) y Frontend en <a href="https://github.com/UNLu-SIP-VibeCheck-2026" target="_blank">VibeCheck</a>.
+* 🌐 **Idiomas:** Inglés avanzado (C2). Francés y Portugués intermedio (B1).
+
+</samp>
 </div>
 </details>
