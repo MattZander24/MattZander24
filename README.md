@@ -30,6 +30,8 @@
   <summary>💻 Sobre mí</summary>
 <div>
 <samp>
+<br>
+<h4 align="left">
 
 * 🎓 **Formación:** Analista Programador Universitario y estudiante avanzado de la Lic. en Sistemas (UNLu).
 * 🔭 **Orientación:** Enfocado en Game Dev, Game Design, Desarrollo Frontend y UX/UI.
@@ -39,6 +41,7 @@
 * 🎟️ Product Owner (LeSS) y Frontend en <a href="https://github.com/UNLu-SIP-VibeCheck-2026" target="_blank">VibeCheck</a>.
 * 🌐 **Idiomas:** Inglés avanzado (C2). Francés y Portugués intermedio (B1).
 
+<h4>
 </samp>
 </div>
 </details>
