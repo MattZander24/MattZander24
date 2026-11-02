@@ -30,7 +30,7 @@
   <summary>💻 Sobre mí</summary>
 <div>
 <samp>
-<br>
+<br/>
 <h4 align="left">
 
 * 🎓 **Formación:** Analista Programador Universitario y estudiante avanzado de la Lic. en Sistemas (UNLu).
