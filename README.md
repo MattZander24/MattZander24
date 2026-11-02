@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="left">Hola, soy Matt</h1>
-<h4 align="left">Analista Programador Universitario y estudiante de Lic. en Sistemas de Información (UNLu), para más información podés ver mi <a href="https://github.com/MattZander24/MattZander24/blob/main/assets/doc/MattZander_CV.pdf" target="_blank">Currículum Vitae</a>.</h4>
+<h4 align="left">Analista Programador Universitario, para más información podés ver mi <a href="https://github.com/MattZander24/MattZander24/blob/main/assets/doc/MattZander_CV.pdf" target="_blank">Currículum Vitae</a>.</h4>
 </div>
 
 -----
